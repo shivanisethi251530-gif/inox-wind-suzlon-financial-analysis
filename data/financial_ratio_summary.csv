@@ -1,0 +1,55 @@
+company,financial_year,analysis_category,ratio,value,unit
+Inox Wind Limited,FY 2023-24,Liquidity,Current ratio,1.14,x
+Inox Wind Limited,FY 2024-25,Liquidity,Current ratio,1.55,x
+Inox Wind Limited,FY 2025-26,Liquidity,Current ratio,2.01,x
+Suzlon Energy Limited,FY 2023-24,Liquidity,Current ratio,1.76,x
+Suzlon Energy Limited,FY 2024-25,Liquidity,Current ratio,1.56,x
+Suzlon Energy Limited,FY 2025-26,Liquidity,Current ratio,1.65,x
+Inox Wind Limited,FY 2023-24,Liquidity,Quick ratio,0.62,x
+Inox Wind Limited,FY 2024-25,Liquidity,Quick ratio,1.13,x
+Inox Wind Limited,FY 2025-26,Liquidity,Quick ratio,1.52,x
+Suzlon Energy Limited,FY 2023-24,Liquidity,Quick ratio,0.98,x
+Suzlon Energy Limited,FY 2024-25,Liquidity,Quick ratio,1.00,x
+Suzlon Energy Limited,FY 2025-26,Liquidity,Quick ratio,1.08,x
+Inox Wind Limited,FY 2023-24,Liquidity,Cash ratio,0.0041,x
+Inox Wind Limited,FY 2024-25,Liquidity,Cash ratio,0.0661,x
+Inox Wind Limited,FY 2025-26,Liquidity,Cash ratio,0.0345,x
+Suzlon Energy Limited,FY 2023-24,Liquidity,Cash ratio,0.0857,x
+Suzlon Energy Limited,FY 2024-25,Liquidity,Cash ratio,0.1596,x
+Suzlon Energy Limited,FY 2025-26,Liquidity,Cash ratio,0.1035,x
+Inox Wind Limited,FY 2023-24,Profitability,Operating ratio,91.46,%
+Inox Wind Limited,FY 2024-25,Profitability,Operating ratio,83.84,%
+Inox Wind Limited,FY 2025-26,Profitability,Operating ratio,84.38,%
+Suzlon Energy Limited,FY 2023-24,Profitability,Operating ratio,87.58,%
+Suzlon Energy Limited,FY 2024-25,Profitability,Operating ratio,85.63,%
+Suzlon Energy Limited,FY 2025-26,Profitability,Operating ratio,84.10,%
+Inox Wind Limited,FY 2023-24,Profitability,Net profit margin,-2.76,%
+Inox Wind Limited,FY 2024-25,Profitability,Net profit margin,12.30,%
+Inox Wind Limited,FY 2025-26,Profitability,Net profit margin,10.21,%
+Suzlon Energy Limited,FY 2023-24,Profitability,Net profit margin,10.16,%
+Suzlon Energy Limited,FY 2024-25,Profitability,Net profit margin,19.09,%
+Suzlon Energy Limited,FY 2025-26,Profitability,Net profit margin,18.97,%
+Inox Wind Limited,FY 2023-24,Profitability,Return on equity,-1.57,%
+Inox Wind Limited,FY 2024-25,Profitability,Return on equity,12.95,%
+Inox Wind Limited,FY 2025-26,Profitability,Return on equity,7.50,%
+Suzlon Energy Limited,FY 2023-24,Profitability,Return on equity,26.31,%
+Suzlon Energy Limited,FY 2024-25,Profitability,Return on equity,41.33,%
+Suzlon Energy Limited,FY 2025-26,Profitability,Return on equity,40.64,%
+Inox Wind Limited,FY 2023-24,Solvency,Long-term debt-equity ratio,0.0807,x
+Inox Wind Limited,FY 2024-25,Solvency,Long-term debt-equity ratio,0.0004,x
+Inox Wind Limited,FY 2025-26,Solvency,Long-term debt-equity ratio,0.0431,x
+Suzlon Energy Limited,FY 2023-24,Solvency,Long-term debt-equity ratio,0.0127,x
+Suzlon Energy Limited,FY 2024-25,Solvency,Long-term debt-equity ratio,0.0212,x
+Suzlon Energy Limited,FY 2025-26,Solvency,Long-term debt-equity ratio,0.0109,x
+Inox Wind Limited,FY 2023-24,Solvency,Interest coverage ratio,0.82,x
+Inox Wind Limited,FY 2024-25,Solvency,Interest coverage ratio,4.18,x
+Inox Wind Limited,FY 2025-26,Solvency,Interest coverage ratio,4.30,x
+Suzlon Energy Limited,FY 2023-24,Solvency,Interest coverage ratio,5.01,x
+Suzlon Energy Limited,FY 2024-25,Solvency,Interest coverage ratio,6.68,x
+Suzlon Energy Limited,FY 2025-26,Solvency,Interest coverage ratio,6.24,x
+Inox Wind Limited,FY 2023-24,Solvency,Proprietary ratio,41.56,%
+Inox Wind Limited,FY 2024-25,Solvency,Proprietary ratio,51.28,%
+Inox Wind Limited,FY 2025-26,Solvency,Proprietary ratio,52.89,%
+Suzlon Energy Limited,FY 2023-24,Solvency,Proprietary ratio,54.61,%
+Suzlon Energy Limited,FY 2024-25,Solvency,Proprietary ratio,47.11,%
+Suzlon Energy Limited,FY 2025-26,Solvency,Proprietary ratio,50.15,%
